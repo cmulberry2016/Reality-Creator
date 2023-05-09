@@ -11,11 +11,12 @@ Reality Creator is an easy-to-use mixed reality platform for creating LenovoA3 a
 The getting started guide can be found here!
 
 Interested in learning more about Reality Creator?
+- Submit bugs on the Issues tab, and ask questions in the Discussions tab!
+- Drop into the Discord channel for discussion, help and updates.
+- Check out this blog for occasional substantial updates!
 
-Submit bugs on the Issues tab, and ask questions in the Discussions tab!
-Follow Chris Mulberry on LinkedIn for development news.
-Drop into the Discord channel for discussion, help and updates.
-Check out this blog for occasional substantial updates!
+Are you looking to Partner with Reality Creator on your next project?
+- Send a direct message to Chris Mulberry on LinkedIn.
 
 
 # Reality Creator Features
