@@ -26,6 +26,8 @@ Check out this blog for occasional substantial updates!
 
 
 # Architecture
+<img width="1538" alt="cloudcraft-example-export" src="https://github.com/cmulberry2016/Reality-Creator/assets/23661772/fb421e61-fd91-4ca8-a185-3740f24afa3b">
+
 
 
 # Tenets
