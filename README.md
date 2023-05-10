@@ -1,8 +1,4 @@
-# What is the Real-World Metaverse?
-![1636456655_Metaverse_SmallFile](https://github.com/cmulberry2016/Reality-Creator/assets/23661772/6890ec50-0455-46aa-95a8-672990c8c414)
 A democratized network of spatial websites that is accessabilie to everyone.
-
-
 
 # What is Reality Creator?
 <img width="640" alt="Lenovo A3 1" src="https://github.com/cmulberry2016/Reality-Creator/assets/23661772/2c8d6fe5-fd04-408a-9a69-e6a20d8fa0cf">
